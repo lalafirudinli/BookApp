@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Models\BaseModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Models\BaseModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeApp.App\EmployeeApp.App.csproj" />
+  </ItemGroup>
+</Project>

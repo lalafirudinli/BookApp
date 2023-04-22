@@ -1,0 +1,5 @@
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeApp.Data/obj/Debug/net6.0/EmployeApp.Data.csproj.AssemblyReference.cache
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeApp.Data/obj/Debug/net6.0/EmployeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeApp.Data/obj/Debug/net6.0/EmployeApp.Data.AssemblyInfoInputs.cache
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeApp.Data/obj/Debug/net6.0/EmployeApp.Data.AssemblyInfo.cs
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeApp.Data/obj/Debug/net6.0/EmployeApp.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EmployeeApp.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EmployeeApp.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeApp.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeApp.App/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeApp.App/EmployeeApp.App.csproj",
+      "msbuildProject": "../EmployeeApp.App/EmployeeApp.App.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EmployeeApp.App >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/abdulalieff/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/EmployeeApp.Core.csproj",
+      "projectName": "EmployeeApp.Core",
+      "projectPath": "/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/EmployeeApp.Core.csproj",
+      "packagesPath": "/Users/abdulalieff/.nuget/packages/",
+      "outputPath": "/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/abdulalieff/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.App/EmployeeApp.App.csproj": {
+              "projectPath": "/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.App/EmployeeApp.App.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

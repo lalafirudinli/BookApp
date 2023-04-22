@@ -1,0 +1,12 @@
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.csproj.AssemblyReference.cache
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.AssemblyInfoInputs.cache
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.AssemblyInfo.cs
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.csproj.CoreCompileInputs.cache
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/bin/Debug/net6.0/EmployeeApp.Core.deps.json
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/bin/Debug/net6.0/EmployeeApp.Core.dll
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/bin/Debug/net6.0/EmployeeApp.Core.pdb
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.dll
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/refint/EmployeeApp.Core.dll
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/EmployeeApp.Core.pdb
+/Users/abdulalieff/Projects/EmployeeApp.App/EmployeeApp.Core/obj/Debug/net6.0/ref/EmployeeApp.Core.dll
